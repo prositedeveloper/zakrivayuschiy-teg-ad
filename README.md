@@ -9,8 +9,8 @@
 ![](./screenshot.png)
 
 ### Ссылки
-- Репозиторий проекта: https://github.com/prositedeveloper zakrivayuschiy-teg-ad
-- Проект опубликованный в GitHub-Pages: https://prositedeveloper.github.io zakrivayuschiy-teg-ad
+- Репозиторий проекта: https://github.com/prositedeveloper/zakrivayuschiy-teg-ad
+- Проект опубликованный в GitHub-Pages: https://prositedeveloper.github.io/zakrivayuschiy-teg-ad
 
 ### Инструкция по запуску
 Чтобы запустить проект, нужно сделать несколько простых шагов:
